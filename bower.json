@@ -2,9 +2,9 @@
   "name": "purescript-parsing-common",
   "version": "0.0.3",
   "license": "MIT",
-  "repository": {                                                           
-    "type": "git",                                                          
-    "url": "https://github.com/markfarrell/purescript-parsing-common.git"   
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markfarrell/purescript-parsing-common.git"
   },
   "ignore": [
     "**/.*",
@@ -16,7 +16,8 @@
     "purescript-parsing-repetition": "markfarrell/purescript-parsing-repetition#^0.0.1",
     "purescript-parsing-alphanumeric": "markfarrell/purescript-parsing-alphanumeric#^0.0.1",
     "purescript-parsing-hexadecimal": "markfarrell/purescript-parsing-hexadecimal#^0.0.1",
-    "purescript-parsing-uuid": "markfarrell/purescript-parsing-uuid#^0.0.1"
+    "purescript-parsing-uuid": "markfarrell/purescript-parsing-uuid#^0.0.1",
+    "purescript-parsing-validation": "markfarrell/purescript-parsing-validation#^0.0.1"
   },
   "devDependencies": {
     "purescript-parsing-expect": "markfarrell/purescript-parsing-expect#^0.0.1",
