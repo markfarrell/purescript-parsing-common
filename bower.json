@@ -17,7 +17,8 @@
     "purescript-parsing-alphanumeric": "markfarrell/purescript-parsing-alphanumeric#^0.0.1",
     "purescript-parsing-hexadecimal": "markfarrell/purescript-parsing-hexadecimal#^0.0.1",
     "purescript-parsing-uuid": "markfarrell/purescript-parsing-uuid#^0.0.1",
-    "purescript-parsing-validation": "markfarrell/purescript-parsing-validation#^0.0.1"
+    "purescript-parsing-validation": "markfarrell/purescript-parsing-validation#^0.0.1",
+    "purescript-parsing-arguments": "markfarrell/purescript-parsing-arguments#^0.0.1"
   },
   "devDependencies": {
     "purescript-parsing-expect": "markfarrell/purescript-parsing-expect#^0.0.1",
