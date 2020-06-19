@@ -1,6 +1,6 @@
 {
   "name": "purescript-parsing-common",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -13,15 +13,15 @@
     "output"
   ],
   "dependencies": {
-    "purescript-parsing-repetition": "markfarrell/purescript-parsing-repetition#^0.0.1",
-    "purescript-parsing-alphanumeric": "markfarrell/purescript-parsing-alphanumeric#^0.0.1",
-    "purescript-parsing-hexadecimal": "markfarrell/purescript-parsing-hexadecimal#^0.0.1",
-    "purescript-parsing-uuid": "markfarrell/purescript-parsing-uuid#^0.0.1",
-    "purescript-parsing-validation": "markfarrell/purescript-parsing-validation#^0.0.3",
-    "purescript-parsing-arguments": "markfarrell/purescript-parsing-arguments#^0.0.3"
+    "purescript-parsing-repetition": "markfarrell/purescript-parsing-repetition",
+    "purescript-parsing-alphanumeric": "markfarrell/purescript-parsing-alphanumeric",
+    "purescript-parsing-hexadecimal": "markfarrell/purescript-parsing-hexadecimal",
+    "purescript-parsing-uuid": "markfarrell/purescript-parsing-uuid",
+    "purescript-parsing-validation": "markfarrell/purescript-parsing-validation",
+    "purescript-parsing-arguments": "markfarrell/purescript-parsing-arguments"
   },
   "devDependencies": {
-    "purescript-parsing-expect": "markfarrell/purescript-parsing-expect#^0.0.1",
+    "purescript-parsing-expect": "markfarrell/purescript-parsing-expect",
     "purescript-psci-support": "^4.0.0"
   }
 }
